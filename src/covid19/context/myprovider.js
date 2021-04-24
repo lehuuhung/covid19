@@ -14,7 +14,7 @@ class MyProvider extends React.Component {
         return new Promise((resolve) =>{
             this.setState(state,resolve);
         });    
-         // promise sinh ra để xử lys các thao tác bất đồng bộ  promise đc sinh ra trong ES^
+         // promise sinh ra để xử lys các thao tác bất đồng bộ  promise đc sinh ra trong ES6
         // trong promise có chứa funtion
         // promise((resolve,reject)=>{})
         // nếu trả về resolve() là success

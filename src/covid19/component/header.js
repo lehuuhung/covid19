@@ -7,7 +7,7 @@ const HeaderPage = () => {
         <>
             <Header>
                 <div className="my-header">
-                    <h1 className="title" style="color:#fff">Thông tin virus corona</h1>
+                    <h1 className="title">Thông tin virus corona</h1>
                 </div>
             </Header>
         </>

@@ -1,11 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
 import 'antd/dist/antd.css';
 import Index from './covid19/index';
 
 const App = () => {
   return (
-    <Index/>
+    <Index />
   );
 }
 
